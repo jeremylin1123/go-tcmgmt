@@ -1,0 +1,5 @@
+# .gitignore 檔案
+
+# 忽略 push.sh 腳本
+push.sh
+tcmgmt-ssl-update-for-k8s/logs/
